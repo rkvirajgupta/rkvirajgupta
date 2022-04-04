@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/viraj-gupta-681073226/">
   <img align="left" alt="Viraj's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!-- <a href="https://twitter.com/sunil18695924">
+<!-- <a href="https://twitter.com/">
   <img align="left" alt="Viraj | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
 
