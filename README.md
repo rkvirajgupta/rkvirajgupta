@@ -8,7 +8,7 @@
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Viraj Gupta</a>!
  </h2>
-<h4>  I'm a passionate Full Stack Developer with a specialization in MERN stack from Indore, Madhya Pradesh (India). </h4>
+<h4 align="center">  I'm a passionate Full Stack Developer with a specialization in MERN stack from Indore, Madhya Pradesh (India). </h4>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
 </p>
@@ -30,11 +30,10 @@
 <b>Motivated and efficient Full-stack web developer</b> with a history of education in BSc and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 
 
-- 🔭 I’m currently working on Backend Development
-- 🌱 I’m currently learning MERN 
+- 🔭 I’m currently learning : Full Stack Web Development
 - 👯 I’m looking to collaborate on Linkedin
 - 🤔 I’m looking for help with developing AI skills..
-- 💬 Ask me about any MERN related stuff
+- 💬 Ask me about : Data Structures and Algorithms, JavaScript, React and MongoDb
 - 📫 How to reach me *rkvirajgupta@gmail.com*
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
