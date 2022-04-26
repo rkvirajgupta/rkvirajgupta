@@ -6,10 +6,9 @@
 
 
 <h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Viraj Gupta</a>!<br>
-  I'm a passionate Full Stack Developer with a specialization in MERN stack from Indore, Madhya Pradesh (India). 
-</h2>
-
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Viraj Gupta</a>!
+ </h2>
+<h4>  I'm a passionate Full Stack Developer with a specialization in MERN stack from Indore, Madhya Pradesh (India). </h4>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
 </p>
