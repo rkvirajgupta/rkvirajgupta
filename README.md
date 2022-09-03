@@ -14,12 +14,12 @@
 </p>
 
 
-<a href="https://www.linkedin.com/in/viraj-gupta-681073226/">
+<a href="https://www.linkedin.com/in/rkvirajgupta/">
   <img align="left" alt="Viraj's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!-- <a href="https://twitter.com/">
-  <img align="left" alt="Viraj | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a> -->
+<a href="https://twitter.com/rkvirajgupta">
+  <img align="left" alt="Viraj's | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a> 
 
 <br/>
 <br/>
