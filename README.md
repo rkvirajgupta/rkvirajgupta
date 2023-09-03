@@ -81,7 +81,7 @@
 </details> -->
 <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
-![Viraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rkvirajgupta&theme=dracula)
+ <p align="center"> <a href="https://github.com/rkvirajgupta"><img src="https://github-readme-activity-graph.vercel.app/graph?username=rkvirajgupta&theme=radical" alt="Viraj's Contribution Graph" /></a> </p>
 </details>
 <details>   
  <summary><b>🏆 Github Achievements</b></summary>
