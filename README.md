@@ -12,6 +12,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
 </p>
 
+![](https://komarev.com/ghpvc/?username=rkvirajgupta&color=green)
+
+<br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/rkvirajgupta/">
   <img align="left" alt="Viraj's LinkedIn" width="40px" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
@@ -19,11 +23,6 @@
 <a href="https://twitter.com/rkvirajgupta">
   <img align="left" alt="Viraj's | Twitter" width="40px" alt="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a> 
-
-<br/>
-<br/>
-
-![](https://komarev.com/ghpvc/?username=rkvirajgupta&color=green)
 
 <br/>
 <br/>
