@@ -4,7 +4,6 @@
 
  -->
 
-![](https://komarev.com/ghpvc/?username=rkvirajgupta&color=green)
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Viraj Gupta</a>!
  </h2>
@@ -24,6 +23,7 @@
 <br/>
 <br/>
 
+![1000](https://komarev.com/ghpvc/?username=rkvirajgupta&color=green)
 
 ## About Me
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
