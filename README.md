@@ -14,9 +14,6 @@
 
 ![](https://komarev.com/ghpvc/?username=rkvirajgupta&color=green)
 
-<br/>
-<br/>
-
 <a href="https://www.linkedin.com/in/rkvirajgupta/">
   <img align="left" alt="Viraj's LinkedIn" width="40px" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
