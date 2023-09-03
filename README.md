@@ -23,7 +23,10 @@
 <br/>
 <br/>
 
-![1000](https://komarev.com/ghpvc/?username=rkvirajgupta&color=green)
+![](https://komarev.com/ghpvc/?username=rkvirajgupta&color=green)
+
+<br/>
+<br/>
 
 ## About Me
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
