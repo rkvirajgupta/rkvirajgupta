@@ -15,10 +15,10 @@
 
 
 <a href="https://www.linkedin.com/in/rkvirajgupta/">
-  <img align="left" alt="Viraj's LinkedIn" width="40px" alt="LinkedIn" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Viraj's LinkedIn" width="40px" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <a href="https://twitter.com/rkvirajgupta">
-  <img align="left" alt="Viraj's | Twitter" width="40px" alt="Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Viraj's | Twitter" width="40px" alt="Twitter" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a> 
 
 <br/>
