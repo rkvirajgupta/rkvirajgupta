@@ -81,7 +81,7 @@
 </details> -->
 <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Viraj Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rkvirajgupta&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center">[![Viraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rkvirajgupta)]</p>
 </details>
 <details>   
  <summary><b>🏆 Github Achievements</b></summary>
