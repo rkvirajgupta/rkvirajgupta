@@ -15,10 +15,10 @@
 
 
 <a href="https://www.linkedin.com/in/rkvirajgupta/">
-  <img align="left" alt="Viraj's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Viraj's LinkedIn" width="40px" alt="LinkedIn" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/rkvirajgupta">
-  <img align="left" alt="Viraj's | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Viraj's | Twitter" width="40px" alt="Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> 
 
 <br/>
@@ -82,7 +82,7 @@
 </details> -->
 <details>
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Simran Dhiman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rkvirajgupta&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Viraj Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rkvirajgupta&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 </details>
 <details>   
  <summary><b>🏆 Github Achievements</b></summary>
