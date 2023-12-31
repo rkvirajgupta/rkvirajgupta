@@ -7,7 +7,7 @@
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="">Viraj Gupta</a>!
  </h2>
-<h4 align="center">  I'm a passionate Full Stack Developer with a specialization in MERN stack from Indore, Madhya Pradesh (India). </h4>
+<h4 align="center">  I'm a passionate Software Developer with a specialization in Full stack development from Indore, Madhya Pradesh (India). </h4>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Programmer&center=true&width=500&height=50">
 </p>
@@ -26,12 +26,12 @@
 
 ## About Me
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<b>Motivated and efficient Full-stack web developer</b> with a history of education in B.Sc. and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+<b>Motivated and efficient Software developer</b> with a history of education in M.Sc.(IT) and an interest in coding. Working with Full stack development and programming languages like JavaScript catalyzed my curiosity for software development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 
 
-- 🔭 I’m currently learning : Full Stack Web Development
+- 🔭 I’m currently : Full Stack Developer
 - 👯 I’m looking to collaborate on Linkedin
-- 💬 Ask me about : Data Structures and Algorithms, JavaScript, React and MongoDb
+- 💬 Ask me about : Data Structures and Algorithms, React, JavaScript, and MongoDb
 - 📫 How to reach me *rkvirajgupta@gmail.com*
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
