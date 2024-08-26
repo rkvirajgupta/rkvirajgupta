@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently : Full Stack Developer
 - 👯 I’m looking to collaborate on Linkedin
-- 💬 Ask me about : Data Structures and Algorithms, React, JavaScript, and MongoDb
+- 💬 Ask me about : Data Structures and Algorithms
 - 📫 How to reach me *rkvirajgupta@gmail.com*
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
