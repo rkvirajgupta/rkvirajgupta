@@ -26,7 +26,7 @@
 
 ## About Me
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<b>Motivated and efficient Software developer</b> with a history of education in M.Sc.(IT) and an interest in coding. Working with Full stack development and programming languages like JavaScript catalyzed my curiosity for software development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+<b>Motivated and efficient Software developer</b> with a history of education in M.Sc.(IT) and an interest in coding. Working with Full stack development and programming languages catalyzed my curiosity for software development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
 
 
 - 🔭 I’m currently : Full Stack Developer
